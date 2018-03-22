@@ -86,7 +86,7 @@ k &= m\oplus c
 $$
 
 - **高效**：可理解为在特定时间内完成，或在[多项式时间](https://zh.wikipedia.org/wiki/多項式時間)内完成。本系列文章中的“高效”均采用这个定义。
-- **确定**：可*简单*理解为只要输入不变，输出必然不变。严格定义请见[你好，密码学(2)：离散概率（速成课）](http://ray-eldath.tech/2017/03/24/hello-cryptography-2/)。
+- **确定**：可*简单*理解为只要输入不变，输出必然不变。严格定义请见[你好，密码学(2)：离散概率（速成课）](http://sun.ffyu.top/2017/04/25/hello-cryotography-2.html)。
 
 ### 不可预测性
 
@@ -100,7 +100,7 @@ $$
 
 **所以**，下面我们将讨论*可预测性*。
 
-![想不到吧](http://ray-eldath.image.alimmdn.com/emoji/33.jpg)
+![想不到吧](http://p5shyx2m0.bkt.clouddn.com/33.jpg)
 
 （其实这么安排是为了便于理解。**真的**，你们要相信我）
 
