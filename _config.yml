@@ -91,4 +91,3 @@ permalink: /:year/:month/:day/:title.html
 # Plugins
 plugins: [jekyll-paginate]
 
-absolute_url: 'https://www.baidu.com'
