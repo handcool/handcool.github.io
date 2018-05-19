@@ -1,7 +1,3 @@
-/**
- * Jekyll Theme Style
- * - author: liaokeyu (liaokeyu.com)
- */
 /*** Parameters ***/
 /*** Mixins ***/
 /** Font **/
@@ -627,7 +623,7 @@ a {
   padding: 0 0 32px; }
   .markdown-body .highlight {
     margin: 0 0 16px;
-    overflow: scroll; }
+    overflow: hidden; }
   .markdown-body img {
     transition: .3s; }
   .markdown-body ul li p, .markdown-body ol li p {
